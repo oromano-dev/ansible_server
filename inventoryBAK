@@ -1,0 +1,7 @@
+[debian]
+192.168.1.242 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.243 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.244 apache_package=apache2 php_package=libapache2-mod-php
+[rocky]
+192.168.1.245 apache_package=httpd php_package=php
+
